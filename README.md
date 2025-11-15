@@ -18,7 +18,7 @@ conda activate AnimonVLM
 ```
 
 ### 3. Install dependencies
-The recommend env is  CUDA 11.8 with pytorch  
+The recommend environment is CUDA 11.8 with pytorch 2.4. 
 ```bash
 pip install -r requirements.txt
 ```
@@ -39,7 +39,7 @@ Prepare your images in a folder and make a jsonl file as the label data. An exam
 
 ## 🚀 Training
 
-We used jupyter notebook for training, it support multi-GPU training. 
+We used jupyter notebook for training, it support multi-GPU training. For Nvidia RTX 3090, the maximum batch size is 2. 
 
 **Example:**
 ```bash
