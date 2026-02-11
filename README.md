@@ -1,5 +1,5 @@
-# AnimonVLM
-The official code for AnimonVLM. 
+# PigVLM
+The official code for PigVLM. 
 
 ---
 
@@ -7,14 +7,14 @@ The official code for AnimonVLM.
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/hed115599/AnimonVLM.git
-cd AnimonVLM
+git clone https://github.com/hed115599/PigVLM.git
+cd PigVLM
 ```
 
 ### 2. Create a conda virtual environment
 ```bash
-conda create -n AnimonVLM python=3.11 -y
-conda activate AnimonVLM
+conda create -n PigVLM python=3.11 -y
+conda activate PigVLM
 ```
 
 ### 3. Install dependencies
@@ -85,4 +85,4 @@ We will give this part after the paper is accepted.
 If you have any questions, feedback, or suggestions, feel free to open an issue or reach out.
 
 - **Edward Wong** – hed115599@gmail.com  
-- **Project Link** – [https://github.com/hed115599/AnimonVLM](https://github.com/hed115599/AnimonVLM)  
+- **Project Link** – [https://github.com/hed115599/PigVLM](https://github.com/hed115599/PigVLM)  
